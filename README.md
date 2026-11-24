@@ -49,4 +49,4 @@ Yapay zekâ destekli değerlendirme ve sınıfın ortak ihtiyaçlarına göre et
 - **Alan:** Eğitim Teknolojileri
 - **Geliştirici:** Furkan Güven
 
-VİDEO LİNK:  https://www.youtube.com/watch?v=yNCv36mMM1k
+
